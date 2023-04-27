@@ -5,4 +5,5 @@ html,body {
 .main-wraper {
     background-color: blue;
     border: 4px solid orange;
+    height:100% ;
 }
